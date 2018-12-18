@@ -5,7 +5,7 @@ namespace Lab1
     {
         static void Main(string[] args)
         {
-            Console.Write("Hello");
+            Console.WriteLine(" {0} and {1}", 3, 6,);
         }
     }
 }
